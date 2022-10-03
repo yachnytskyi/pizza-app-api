@@ -26,7 +26,7 @@ docker-compose build
 
 After that repeat the command docker-compose up for launching the project.
    
-**Commands:**.  
+**Commands:**  
 When you need to use a python manage.py command, you have to write (just an example):       
 
 ```
