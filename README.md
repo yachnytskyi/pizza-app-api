@@ -1,3 +1,5 @@
+<div align="left">
+
 **Pizza App API**
 Source code for Pizza App
 
@@ -54,4 +56,5 @@ You can create a superuser (admin) using this command (if you don't have it yet)
 docker-compose run app sh -c "python manage.py createsuperuser"
 ```
 
+</div>
 
